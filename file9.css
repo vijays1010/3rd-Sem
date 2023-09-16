@@ -1,0 +1,19 @@
+.outer-box {
+    background-color: blue;
+}
+.box {
+    background-color: blue;
+    padding: 40px;
+}
+.inner-box {
+    background-color: red;
+}
+p {
+    color: yellow;
+    margin: 0;
+    padding: 0;
+}
+
+.white-text {
+    color: aliceblue;
+}

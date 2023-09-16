@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+h1{
+    font-size: 5rem;
+    color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 0 black;
+}
+.w{
+    background-image: url('D:\3rd Sem\intenship\images\WhatsApp Image 2023-09-02 at 11.31.55 AM (1).jpeg');
+}
+.a{
+    background-image: url('D:\3rd Sem\intenship\images\WhatsApp Image 2023-09-02 at 11.31.55 AM.jpeg');
+}
+.s{
+    background-image: url('D:\3rd Sem\intenship\images\WhatsApp Image 2023-09-02 at 11.31.56 AM (1).jpeg');
+}
+.d{
+    background-image: url('intenship/images/WhatsApp Image 2023-09-02 at 11.31.56 AM.jpeg');
+}
+.j{
+    background-image: url('D:\3rd Sem\intenship\images\WhatsApp Image 2023-09-02 at 11.31.57 AM (1).jpeg');
+}
+.k{
+    background-image: url('D:\3rd Sem\intenship\images\WhatsApp Image 2023-09-02 at 11.31.57 AM (2).jpeg');
+}
+.l{
+    background-image: url('D:\3rd Sem\intenship\images\WhatsApp Image 2023-09-02 at 11.31.57 AM.jpeg');
+}
